@@ -36,7 +36,7 @@
  </h5>
 
 
-<h2>ATUALIZAÇÕES DO .NET</h2>
+<h2>ATUALIZAÇÕES</h2>
 
 <h3>.NET Core</h3>
 
