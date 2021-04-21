@@ -1,12 +1,98 @@
 <div align="center">
 <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dot_net_icon_138665.png" >
 </div>
-                                                                     
 
-  <h5>
-    Essa variedade permite que os recursos que a platafroma provê sejam
-    utilizados para desenvolver, da mesma forma, coisas diferentes.
-  </h5>
+ <h5>
+     O .NET é uma plataforma de desenvolvimento criada pela Microsft e inicialmente exclusiva para
+     usuários do Windows. Sua criação visava reunir de forma páratica ferramentas que ampliariam a 
+     forma com que se desevolvia aplicações no Windows.
+ </h5>
+
+<h3>.NET Framework</h3>
+
+ <h5>
+     O .NET framework foi a primeira versão da plataforma a ser lançada, especificamente no ano de 
+     2002. Sendo um framework, ou seja, uma série de bibliotecas que possibilitam o desenvolvimento de
+     aplicações de formas distintas com propósitos variados, sendo estas capazes de serem implementadas
+     de inúmeras formas, porém, restritas ao ambiente Windows. As libs disponibilizadas pela tecnologia
+     .NET criaram um ambiente de desenvolvimento bastante prático devido as facilitações que tais
+     ferramentas traziam para o desenvolvedor, deixando a cargo dele apenas as especificações do programa
+     a ser criado.
+ </h5>
+
+<h2>VISUAL STUDIO</h2>
+
+ <h5>
+    O .NET é ambienteado e desenvolvido no Visual Studio, IDE capaz de interagir diretamente com 
+    funcionalidades do sistema operacional, nesse caso ainda restrito ao sistema da Operacional da
+    Microsft. Suportando linguagens como VB(Visual Basic), C#, C++, F# e Python, o Visual Studio é
+    bastante versátil, sendo companhia constante do desenvolvedor .NET.
+ </h5>
+ 
+ <div align="center">
+  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png">
+ </div>
+
+ <h5>
+   Além disso, nele é possível desenvolver uma série de tipos de aplicações, sejam voltadas para os
+   ambientes de Console, Windows Form, Web ou mesmo Mobile, cada uma demandando uma das variações 
+   do próprio .NET.
+</h5>
+
+
+<h2>ATUALIZAÇÕES DO .NET</h2>
+
+<h3>.NET Core</h3>
+
+ <h5>
+    Sendo introzido no mercado em 2016 com o propósito de ampliar as fronteiras do desenvolvimento
+    usando o .NET, a Microsft desenvolveu o que seria definido como uma modernização do já difundido
+    .NET, sua versão Core. A atualização buscava quebrar a barreira de exclusividade que o Windows
+    detinha sobre a ferramenta. Com essa mudança, tanto o Linux quanto o mcOS passaram a ser contemplados
+    com a possibilidade de suporte ao .NET, ou melhor dizendo, .NET Core. Uma grnade mudança trazida pela 
+    atualização foi que o .NET passou a ser Open Source, permitindo a contribuição dos próprios usuáriso.
+</h5>
+
+<h3>ASP.NET Core</h3>
+
+ <h5>
+    O Asp.Net Core é uma versão do Asp.Net que é ambientado na plataforma .NET Core. Quando foi lançado,
+    Asp.Net tinha como maior função permitir a migração de conseitos do desenvolvimento DeskTop para
+    a Web. As Ferramentas que levaram a sua criação, como Delphi e Visual Basic, as quais permitiam
+    a criação mas somplória de interfaces gráficas no desenvolvimento DeskTop, podendo ser dito que com
+    um simples "arrastar" de componentes o processo se dava como feito, tornavam possível uma maior dedicação
+    a lógica por trás da interface. Com isso, foi desenvolvido o ASP.NET Web Forms.
+ </h5>
+
+ <h5>
+    Mesmo parecendo adequando, a legibilidade da liguagem de marcação gerada pelo Web Forms era bastante 
+    poluída e passou a cair em desuso. Mesmo com o fracass, o Asp.Net não foi descartanto, sofrente várias
+    atualizações com o passar dos anos, sendo alguns delas o ASP.NET MVC: Aplicação do padrão MVC em
+    aplicações do gênero; e o Web API: Criação de Api's usando a plataforma;
+ </h5>
+
+ <h5>
+    Após várias atualizações, a Microsft partiu da idéia de atualizações pensando na comunidade para 
+    qual a ferramenta era essencaial, tornando-a Open Source. Com isso, vendo que muitas modificações
+    teriam que ser feitas, foi desenvolvido e lançado do zero em 2016 o ASP.NET Core.
+ </h5>
+
+ <h5>
+    Sucessor do ASP.NET, o ASP.NET Core é um framework open-source, multiplataforma, criado pela
+    Microsoft e a comunidade. Leve, rápido e modular, funciondo em conjunto com o .NET Core. As
+    mudanças trouxeram uma visão mais moderna e performática para aplicações Web no meio .Note.
+ </h5>
+ 
+ 
+ <h2>
+    Processo de Compilação no .NET
+ </h2>
+ 
+ <h5>
+    Como foi anteriormente mencionado, o .NET fornece suporte para multiplas linguagens, uma
+    vez que o código escrito em uma destas é compilado, todo um processo de leitura e 
+ </h5>
+ 
 
   <h2>
     Componentes de arquitetura do .NET
