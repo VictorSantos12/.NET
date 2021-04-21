@@ -1,4 +1,7 @@
-![dot_net_icon_138665](https://cdn.icon-icons.com/icons2/2248/PNG/512/dot_net_icon_138665.png)
+<div align="center">
+<img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dot_net_icon_138665.png" >
+</div>
+                                                                     
 
   <h5>
     Essa variedade permite que os recursos que a platafroma provê sejam
