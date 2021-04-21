@@ -1,15 +1,3 @@
-![dot_net_plain_wordmark_logo_icon_146545](https://icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png)
-
-
- <h5>
-   O C# é uma linguagem de programção multiparadigma, de tipagem forte e
-   com o foco voltado para a  orientação a objetos. Bastante parecida com
-   linguagens populares como o Javascript, Java e C++, é bastante enraizada 
-   na família de linguagens C.
-   Por ser uma linguagem de programação orientada a objeto ou Component
-   -oriented, é moderna e de uso simples para quem possui os fundamentos de
-   POO bem fixados.
-</h5>
 
 <h2>
    Ambiente de Desenvolvimento
