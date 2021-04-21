@@ -86,19 +86,31 @@
  
  <h5>
     Como foi anteriormente mencionado, o .NET fornece suporte para multiplas linguagens, uma
-    vez que o código escrito em uma destas é compilado, todo um processo de leitura e 
+    vez que o código escrito em uma destas linguagens é compilado, todo um processo de leitura
+    e interpretação também é executado. Esse processo consiste na transposição da linguagem usada
+    para uma linguagem intermediaria, com isso gera-se um arquivo com o código convertido. O arquivo
+    gerado leva a nomeclatura de assembly, tendo executáveis (. exe) ou DLL (Dynamic Link Library) como
+    suas extensões.
+ </h5>
+ 
+ <h5>
+   O arquivo, agora carregando o programa em uma Common Intermediate Language ou CIL, passa
+   a ser lido pelo Common Language Runtime(CLR) em um processo chamado de Just-in-Time(JIT).
+   O CLR nada mais é que a máquina virtual responsável por facilitar o processo de execução
+   dos códigos geridos no .NET. Já o JIT é o responsável por tratar essa informação e convertê-la
+   em machine code, este por sua vez é interpretado pelo sistema operacional.
  </h5>
  
  <h3>
- Runtimes
-</h3>
+  Runtimes
+ </h3>
   
 
-<h5>
- Um runtime é o ambiente de execução de um programa gerenciado. O SO faz parte do
- ambiente do runtime, mas não faz parte do runtime do .NET. Aqui estão alguns exemplos
- de runtimes do .NET:
-</h5>
+ <h5>
+  Um runtime é o ambiente de execução de um programa gerenciado. O SO faz parte do
+  ambiente do runtime, mas não faz parte do runtime do .NET. Aqui estão alguns exemplos
+  de runtimes do .NET:
+ </h5>
   
    <ul>  
      <li>CLR (Common Language Runtime) para .NET Framework</li>
