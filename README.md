@@ -30,8 +30,10 @@
  </h5>
  
  <div align="center">
-  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png">
+  <img src="(https://user-images.githubusercontent.com/61476935/115618357-f60ae480-a2c8-11eb-84fd-0d60a34beb95.png">
  </div>
+ 
+![visual_studio_18908 (1)](https://user-images.githubusercontent.com/61476935/115618357-f60ae480-a2c8-11eb-84fd-0d60a34beb95.png)
 
  <h5>
    Além disso, nele é possível desenvolver uma série de tipos de aplicações, sejam voltadas para os
