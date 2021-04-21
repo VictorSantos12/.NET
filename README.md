@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dot_net_icon_138665.png" >
+  <img width="50%" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dot_net_icon_138665.png" >
 </div>
 
  <h5>
@@ -20,10 +20,10 @@
      a ser criado.
  </h5>
 
- <div >
-    <h2>VISUAL STUDIO</h2> 
-    <img src="https://user-images.githubusercontent.com/61476935/115618357-f60ae480-a2c8-11eb-84fd-0d60a34beb95.png">
+ <div align="center">
+    <img width="60%" src="https://user-images.githubusercontent.com/61476935/115619068-d45e2d00-a2c9-11eb-85d8-ae0ce91fdcc8.png">
  </div>
+ 
 
  <h5>
     O .NET é ambienteado e desenvolvido no Visual Studio, IDE capaz de interagir diretamente com 
