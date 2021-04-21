@@ -93,6 +93,10 @@
     suas extensões.
  </h5>
  
+ <div align="center">
+  <img width="50%" src="https://user-images.githubusercontent.com/61476935/115625267-2dca5a00-a2d2-11eb-8f34-b47672677ee6.png">
+ </div>
+ 
  <h5>
    O arquivo, agora carregando o programa em uma Common Intermediate Language ou CIL, passa
    a ser lido pelo Common Language Runtime(CLR) em um processo chamado de Just-in-Time(JIT).
