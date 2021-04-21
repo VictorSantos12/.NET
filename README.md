@@ -104,27 +104,6 @@
    dos códigos geridos no .NET. Já o JIT é o responsável por tratar essa informação e convertê-la
    em machine code, este por sua vez é interpretado pelo sistema operacional.
  </h5>
- 
- <h3>
-  Runtimes
- </h3>
-  
-
- <h5>
-  Um runtime é o ambiente de execução de um programa gerenciado. O SO faz parte do
-  ambiente do runtime, mas não faz parte do runtime do .NET. Aqui estão alguns exemplos
-  de runtimes do .NET:
- </h5>
-  
-   <ul>  
-     <li>CLR (Common Language Runtime) para .NET Framework</li>
-     <li>CLR (Common Language Runtime) para .NET 5</li>
-     <li>.NET Native para a Plataforma Universal do Windows</li>
-     <li>
-        O runtime Mono para Xamarin.iOS, Xamarin.Android,
-        Xamarin.Mac e a estrutura de área de trabalho do Mono
-     </li>
-   </ul>
 
 <h2>
   Implementações do .NET
@@ -150,18 +129,4 @@
   
 <h5>Há quatro implementações do .NET às quais a Microsoft dá suporte:</h5>
 
-  
-<h2>
-  .NET 5
-</h2>
-  
-<h5>
-  O .NET 5 é uma implementação de plataforma cruzada do .NET que foi projetada
- para lidar com cargas de trabalho de servidor e nuvem em escala. Ele também dá 
- suporte a outras cargas de trabalho, incluindo aplicativos de desktop. Ele é
- executado no Windows, no macOS e no Linux. Ele implementa .NET Standard, portanto,
- o código que tem como alvo .NET Standard pode ser executado no .NET 5. ASP.NET Core,
- Windows Formse Windows Presentation Foundation (WPF) são executados no .NET 5.
-</h5>
-
-    
+ 
