@@ -20,23 +20,23 @@
      a ser criado.
  </h5>
 
- <div align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/61476935/115619068-d45e2d00-a2c9-11eb-85d8-ae0ce91fdcc8.png">
- </div>
+ ><div align="center">
+ >   <img width="50%" src="https://user-images.githubusercontent.com/61476935/115619068-d45e2d00-a2c9-11eb-85d8-ae0ce91fdcc8.png">
+ ></div>
  
 
- <h5>
-    O .NET é ambienteado e desenvolvido no Visual Studio, IDE capaz de interagir diretamente com 
-    funcionalidades do sistema operacional, nesse caso ainda restrito ao sistema da Operacional da
-    Microsft. Suportando linguagens como VB(Visual Basic), C#, C++, F# e Python, o Visual Studio é
-    bastante versátil, sendo companhia constante do desenvolvedor .NET.
- </h5>
+ ><h5>
+ >   O .NET é ambienteado e desenvolvido no Visual Studio, IDE capaz de interagir diretamente com 
+ >   funcionalidades do sistema operacional, nesse caso ainda restrito ao sistema da Operacional da
+ >   Microsft. Suportando linguagens como VB(Visual Basic), C#, C++, F# e Python, o Visual Studio é
+ >   bastante versátil, sendo companhia constante do desenvolvedor .NET.
+ ></h5>
 
- <h5>
-   Além disso, nele é possível desenvolver uma série de tipos de aplicações, sejam voltadas para os
-   ambientes de Console, Windows Form, Web ou mesmo Mobile, cada uma demandando uma das variações 
-   do próprio .NET.
-</h5>
+ ><h5>
+ >  Além disso, nele é possível desenvolver uma série de tipos de aplicações, sejam voltadas para os
+ >  ambientes de Console, Windows Form, Web ou mesmo Mobile, cada uma demandando uma das variações 
+ >  do próprio .NET.
+ ></h5>
 
 
 <h2>ATUALIZAÇÕES DO .NET</h2>
