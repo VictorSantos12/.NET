@@ -1,42 +1,10 @@
 
-<h2>
-   Ambiente de Desenvolvimento
-</h2>
-
- <h5>
-   O C# é executado de forma direta pelo .NET, ferramenta criada pela 
-   Microsoft, composta por um conjunto de bibliotecas que podem ser compartilhadas por diferentes linguagens de
-   programação, um compilador e uma máquina virtual. Ela foi projetada para trabalhar com várias linguagens
-   de programação, como C#. Vb.NET, F# e Delphi Prism, tendo a máquina virtual Common Language Runtime
-   (CLR) como o ambiente de execução para todas a linguagens da plataforma. Para que a máquina virtual
-   trabalhe com diversas linguagens de programação a CLR não executa diretamente o código da linguagem,
-   mas uma linguagem intermediária comum a todas as linguagens da plataforma, a Common Intermediate
-   Language (CIL). Para gerar o CIL que será executado na CLR o código de uma linguagem precisa passar por
-   um compilador da linguagem (csc.exe).
-</h5>
-
 ![dot_net_plain_wordmark_logo_icon_146545](https://icon-icons.com/icons2/2415/PNG/128/dot_net_plain_wordmark_logo_icon_146545.png)
 
 <h5>
-  Para entender a plataforma .Net de forma mais aprofundada, é preciso definir quais os seus usos. A platafroma é compatível
-  com diversos tipos de aplicações, sejam elas: 
+
 </h5>
 
- <ul>
-   <li>Aplicativos Web, APIs da Web e microservices</li>
-   <li>Funções sem servidor na nuvem</li>
-   <li>Aplicativos nativos da nuvem</li>
-   <li>Aplicativos móveis</li>
-   <li>Aplicativos da área de trabalho</li>
-   <li>WPF do Windows</li>
-   <li>Windows Forms</li>
-   <li>UWP (Plataforma Universal do Windows)</li>
-   <li>Jogos</li>
-   <li>Internet das coisas (IoT)</li>
-   <li>Aprendizado de máquina</li>
-   <li>Aplicativos de console</li>
-   <li>Serviços Windows</li>
-  </ul>
 
   <h5>
     Essa variedade permite que os recursos que a platafroma provê sejam
