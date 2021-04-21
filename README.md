@@ -20,7 +20,10 @@
      a ser criado.
  </h5>
 
-<h2>VISUAL STUDIO</h2>
+ <div >
+    <h2>VISUAL STUDIO</h2> 
+    <img src="https://user-images.githubusercontent.com/61476935/115618357-f60ae480-a2c8-11eb-84fd-0d60a34beb95.png">
+ </div>
 
  <h5>
     O .NET é ambienteado e desenvolvido no Visual Studio, IDE capaz de interagir diretamente com 
@@ -28,12 +31,6 @@
     Microsft. Suportando linguagens como VB(Visual Basic), C#, C++, F# e Python, o Visual Studio é
     bastante versátil, sendo companhia constante do desenvolvedor .NET.
  </h5>
- 
- <div align="center">
-  <img src="(https://user-images.githubusercontent.com/61476935/115618357-f60ae480-a2c8-11eb-84fd-0d60a34beb95.png">
- </div>
- 
-![visual_studio_18908 (1)](https://user-images.githubusercontent.com/61476935/115618357-f60ae480-a2c8-11eb-84fd-0d60a34beb95.png)
 
  <h5>
    Além disso, nele é possível desenvolver uma série de tipos de aplicações, sejam voltadas para os
