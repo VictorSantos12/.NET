@@ -90,7 +90,7 @@
  </h5>
  
  <h3>
- Runtimes do .NET
+ Runtimes
 </h3>
   
 
@@ -142,7 +142,7 @@
 
    <li>Opcionalmente, ferramentas de desenvolvimento. Algumas ferramentas
    de desenvolvimento são compartilhadas entre várias implementações.</li>
-  <ul>
+  </ul>
   
 <h5>Há quatro implementações do .NET às quais a Microsoft dá suporte:</h5>
 
