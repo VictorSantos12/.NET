@@ -21,7 +21,7 @@
  </h5>
 
  <div align="center">
-    <img width="60%" src="https://user-images.githubusercontent.com/61476935/115619068-d45e2d00-a2c9-11eb-85d8-ae0ce91fdcc8.png">
+    <img width="50%" src="https://user-images.githubusercontent.com/61476935/115619068-d45e2d00-a2c9-11eb-85d8-ae0ce91fdcc8.png">
  </div>
  
 
