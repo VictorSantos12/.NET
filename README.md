@@ -81,7 +81,7 @@
  
  
  <h2>
-    Processo de Compilação no .NET
+    Processo de Compilação
  </h2>
  
  <h5>
@@ -109,18 +109,6 @@
         Xamarin.Mac e a estrutura de área de trabalho do Mono
      </li>
    </ul>
- 
-<h3>
-  .NET Standard
-</h3>
-
-  <h5>
-   .NET Standard é um conjunto de APIs que são implementadas pela biblioteca
-   de classes base de uma implementação do .NET. De maneira mais formal,
-   é uma especificação das APIs do .NET que compõem um conjunto uniforme
-   de contratos nos quais você compila seu código. Esses contratos são
-   implementados em várias implementações do .NET.
- </h5>
 
 <h2>
   Implementações do .NET
@@ -160,6 +148,4 @@
  Windows Formse Windows Presentation Foundation (WPF) são executados no .NET 5.
 </h5>
 
-
-    
     
