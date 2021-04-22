@@ -89,8 +89,7 @@
     vez que o código escrito em uma dessas linguagens é compilado, todo um processo de leitura
     e interpretação também é executado. Esse processo consiste na transposição da linguagem usada
     para uma linguagem intermediaria, com isso gera-se um arquivo com o código convertido. O arquivo
-    gerado leva a nomeclatura de assembly, tendo executáveis (. exe) ou DLL (Dynamic Link Library) como
-    suas extensões.
+    executável(.exe) gerado leva a nomeclatura de assembly dentro do C#.
  </h5>
  
  <div align="center">
@@ -98,11 +97,11 @@
  </div>
  
  <h5>
-   O arquivo, agora carregando o programa em uma Common Intermediate Language ou CIL, passa
+   O executável, agora carregando o programa em uma Common Intermediate Language ou CIL, passa
    a ser lido pelo Common Language Runtime(CLR) em um processo chamado de Just-in-Time(JIT).
    O CLR nada mais é que a máquina virtual responsável por facilitar o processo de execução
    dos códigos geridos no .NET. Já o JIT é o responsável por tratar essa informação e convertê-la
-   em machine code, este por sua vez é interpretado pelo sistema operacional.
+   em machine code, este sendo por sua vez é interpretado pelo sistema operacional.
  </h5>
 
 <h2>
