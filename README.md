@@ -14,8 +14,8 @@
      O .NET framework foi a primeira versão da plataforma a ser lançada, especificamente no ano de 
      2002. Sendo um framework, ou seja, uma série de bibliotecas que possibilitam o desenvolvimento de
      aplicações de formas distintas com propósitos variados, sendo estas capazes de serem implementadas
-     de inúmeras formas, porém, restritas ao ambiente Windows. As libs disponibilizadas pela tecnologia
-     .NET criaram um ambiente de desenvolvimento bastante prático devido as facilitações que tais
+     de inúmeras formas, porém, restritas ao ambiente Windows, as libs disponibilizadas pela tecnologia
+     .NET criaram um ambiente de desenvolvimento bastante prático. Isso devido as facilitações que tais
      ferramentas traziam para o desenvolvedor, deixando a cargo dele apenas as especificações do programa
      a ser criado.
  </h5>
