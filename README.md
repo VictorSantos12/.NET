@@ -4,7 +4,7 @@
 
  <h5>
      O .NET é uma plataforma de desenvolvimento criada pela Microsft e inicialmente exclusiva para
-     usuários do Windows. Sua criação visava reunir de forma páratica ferramentas que ampliariam a 
+     usuários do Windows. Sua criação visava reunir de forma prática ferramentas que ampliariam a 
      forma com que se desevolvia aplicações no Windows.
  </h5>
 
