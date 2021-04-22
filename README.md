@@ -46,7 +46,7 @@
     .NET, sua versão Core. A atualização buscava quebrar a barreira de exclusividade que o Windows
     detinha sobre a ferramenta. Com essa mudança, tanto o Linux quanto o mcOS passaram a ser contemplados
     com a possibilidade de suporte ao .NET, ou melhor dizendo, .NET Core. Uma grande mudança trazida pela 
-    atualização foi que o .NET passou a ser Open Source, permitindo a contribuição dos próprios usuáriso.
+    atualização foi que o .NET passou a ser Open Source, permitindo a contribuição dos próprios usuários.
 </h5>
 
 <h3>ASP.NET Core</h3>
@@ -55,15 +55,15 @@
     O Asp.Net Core é uma versão do Asp.Net que é ambientado na plataforma .NET Core. Quando foi lançado,
     Asp.Net tinha como maior função permitir a migração de conseitos do desenvolvimento DeskTop para
     a Web. As Ferramentas que levaram a sua criação, como Delphi e Visual Basic, as quais permitiam
-    a criação mas somplória de interfaces gráficas no desenvolvimento DeskTop, podendo ser dito que com
+    a criação mas simplória de interfaces gráficas no desenvolvimento DeskTop, podendo ser dito que com
     um simples "arrastar" de componentes o processo se dava como feito, tornavam possível uma maior dedicação
     a lógica por trás da interface. Com isso, foi desenvolvido o ASP.NET Web Forms.
  </h5>
 
  <h5>
     Mesmo parecendo adequando, a legibilidade da liguagem de marcação gerada pelo Web Forms era bastante 
-    poluída e passou a cair em desuso. Mesmo com o fracass, o Asp.Net não foi descartanto, sofrente várias
-    atualizações com o passar dos anos, sendo alguns delas o ASP.NET MVC: Aplicação do padrão MVC em
+    poluída e passou a cair em desuso. Mesmo com o fracasso, o Asp.Net não foi descartanto, sofrendo várias
+    atualizações com o passar dos anos, sendo algumas delas o ASP.NET MVC: Aplicação do padrão MVC em
     aplicações do gênero; e o Web API: Criação de Api's usando a plataforma;
  </h5>
 
@@ -75,8 +75,8 @@
 
  <h5>
     Sucessor do ASP.NET, o ASP.NET Core é um framework open-source, multiplataforma, criado pela
-    Microsoft e a comunidade. Leve, rápido e modular, funciondo em conjunto com o .NET Core. As
-    mudanças trouxeram uma visão mais moderna e performática para aplicações Web no meio .Note.
+    Microsoft e a comunidade. Leve, rápido e modular, funciondo em conjunto com o .NET Core. Essas
+    mudanças trouxeram uma visão mais moderna e performática para aplicações Web no meio .Net.
  </h5>
  
  
