@@ -45,7 +45,7 @@
     usando o .NET, a Microsft desenvolveu o que seria definido como uma modernização do já difundido
     .NET, sua versão Core. A atualização buscava quebrar a barreira de exclusividade que o Windows
     detinha sobre a ferramenta. Com essa mudança, tanto o Linux quanto o mcOS passaram a ser contemplados
-    com a possibilidade de suporte ao .NET, ou melhor dizendo, .NET Core. Uma grnade mudança trazida pela 
+    com a possibilidade de suporte ao .NET, ou melhor dizendo, .NET Core. Uma grande mudança trazida pela 
     atualização foi que o .NET passou a ser Open Source, permitindo a contribuição dos próprios usuáriso.
 </h5>
 
