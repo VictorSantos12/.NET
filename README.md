@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/61476935/115932907-49fe0080-a464-11eb-9b90-5afc708fe6ac.png" >
 </div>
+<br>
+<img src="https://img.shields.io/static/v1?label=.NET&message=Library&color=purple&style=for-the-badge&logo="/>
 
  <h5>
      O .NET é uma plataforma de desenvolvimento criada pela Microsft e inicialmente exclusiva para
@@ -40,7 +42,7 @@
 
 <h3>.NET Core</h3>
 
- <h5>
+ <h5> 
     Sendo introzido no mercado em 2016 com o propósito de ampliar as fronteiras do desenvolvimento
     usando o .NET, a Microsft desenvolveu o que seria definido como uma modernização do já difundido
     .NET, sua versão Core. A atualização buscava quebrar a barreira de exclusividade que o Windows
