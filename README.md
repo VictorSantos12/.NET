@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="50%" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dot_net_icon_138665.png" >
+  <img src="https://user-images.githubusercontent.com/61476935/115805373-38145300-a3bb-11eb-8c58-28ecbc794858.png" >
 </div>
 
  <h5>
