@@ -93,7 +93,7 @@
  </h5>
  
  <div align="center">
-  <img width="50%" src="https://user-images.githubusercontent.com/61476935/115625267-2dca5a00-a2d2-11eb-8f34-b47672677ee6.png">
+  <img width="60%" src="https://user-images.githubusercontent.com/61476935/115804442-63963e00-a3b9-11eb-8dea-013b9010f99a.jpg">
  </div>
  
  <h5>
