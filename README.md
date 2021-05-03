@@ -5,9 +5,10 @@
 <img src="https://img.shields.io/static/v1?label=.NET&message=Library&color=purple&style=for-the-badge&logo="/>
 
  
-O .NET é uma plataforma de desenvolvimento criada pela Microsft e inicialmente exclusiva para
-usuários do Windows. Sua criação visava reunir de forma prática ferramentas que ampliariam a 
-forma com que se desevolvia aplicações no Windows.
+O .NET é uma plataforma de desenvolvimento criada pela Microsft. Inicialmente de uso exclusivo dos
+usuários Windows, sua criação visava reunir de forma prática recursos que formariam um ambiente de 
+desenvolvimento que abrangesse multiplas linguagens de programação, ampliando a forma com que se
+desevolvia aplicações no Windows.
  
 
 <h2>.NET Framework</h2>
