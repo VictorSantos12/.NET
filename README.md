@@ -33,8 +33,9 @@ Além disso, nele é possível desenvolver uma série de tipos de aplicações, 
 ambientes de Console, Windows Form, Web ou mesmo Mobile, cada uma demandando uma das variações 
 do próprio .NET.
 
-
-<h2>ATUALIZAÇÕES</h2>
+<div align="center">
+   <h2>ATUALIZAÇÕES</h2>
+</div>
 
 <h2>.NET Core</h2>
 
