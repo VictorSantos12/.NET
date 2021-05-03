@@ -66,7 +66,7 @@ atualizações com o passar dos anos, sendo algumas delas o ASP.NET MVC: Aplica�
 aplicações do gênero; e o Web API: Criação de Api's usando a plataforma;
 
 Após várias atualizações, a Microsft partiu da idéia de atualizações pensando na comunidade para 
-qual a ferramenta era essencaial, tornando-a Open Source. Com isso, vendo que muitas modificações
+qual a ferramenta era essencial, tornando-a Open Source. Com isso, vendo que muitas modificações
 teriam que ser feitas, foi desenvolvido e lançado do zero em 2016 o ASP.NET Core.
 
 Sucessor do ASP.NET, o ASP.NET Core é um framework open-source, multiplataforma, criado pela
