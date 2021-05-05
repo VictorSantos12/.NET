@@ -102,6 +102,18 @@ em machine code, este sendo por sua vez é interpretado pelo sistema operacional
   Implementações do .NET
 </h2>
 
+Uma aplicação .Net é desenvolvida para e roda em uma das seguintes implementações do .Net:
+
+<ul>
+   <li>.Net Core</li>
+
+   <li>.Net Framework</li>
+
+   <li>Mono</li>
+
+   <li>Universal Windows Plataform (UWP)</li>
+</ul>
+
 Cada implementação do .NET inclui os seguintes componentes:
 
 
