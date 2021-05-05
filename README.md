@@ -124,7 +124,7 @@ Cada implementação do .NET inclui os seguintes componentes:
    de classes base, biblioteca de classes base do .NET 5.</li>
 
    <li>Opcionalmente, uma ou mais estruturas de aplicativo. Exemplos:
-   ASP.net, Windows Formse Windows Presentation Foundation (WPF)
+   ASP.net, Windows Forms e Windows Presentation Foundation (WPF)
    estão incluídos no .NET Framework e no .NET 5.</li>
 
    <li>Opcionalmente, ferramentas de desenvolvimento. Algumas ferramentas
