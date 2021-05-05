@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/61476935/115932907-49fe0080-a464-11eb-9b90-5afc708fe6ac.png" >
 </div>
 <br>
-<img src="https://img.shields.io/static/v1?label=.NET&message=Library&color=purple&style=for-the-badge&logo="/>
+<img src="https://img.shields.io/static/v1?label=.NET&message=infrastructure&color=purple&style=for-the-badge&logo="/>
 
  
 O .NET é uma plataforma de desenvolvimento criada pela Microsft. Inicialmente de uso exclusivo dos
