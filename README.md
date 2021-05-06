@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/61476935/115932907-49fe0080-a464-11eb-9b90-5afc708fe6ac.png" >
+  <img src="https://user-images.githubusercontent.com/61476935/117233455-8a149a00-adf9-11eb-8fdf-57f6fee37a2c.png" >
 </div>
 <br>
 <img src="https://img.shields.io/static/v1?label=.NET&message=infrastructure&color=purple&style=for-the-badge&logo="/>
