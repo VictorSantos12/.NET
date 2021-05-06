@@ -120,7 +120,7 @@ Cada implementação do .NET inclui os seguintes componentes:
    </li>
  </ul>
 
-<h2?.Net Standard</h2>
+<h2>.Net Standard</h2>
 
 O .NET Standard agrupa uma série de classes padrão do .NET e as API's mais utilizadas. Ao desenvolver uma aplicação,
 não se desenvolve para uma plataforma específica, mas sim para uma versão do .Net Standard. A compatibilidade entre
