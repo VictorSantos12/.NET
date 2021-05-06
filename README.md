@@ -107,22 +107,24 @@ Visual Basic e JavaScript.
   <img src="https://user-images.githubusercontent.com/61476935/117233533-ac0e1c80-adf9-11eb-89b5-afc38d8aee77.png">
 </div>
 
-
-<div align="center">
-   <h1>Ambiente de Desenvolvimento</h1>
-</div>
-
- 
-O .NET é ambienteado e desenvolvido no Visual Studio, IDE desenvolvida pela Microsoft com o intuito de atender
-exclusivamente às especificações do ambiente .NET. Suportando linguagens como VB(Visual Basic), C#, C++, F# e
-Python, o Visual Studio é bastante versátil, sendo companhia constante do desenvolvedor .NET. Além disso, ele
-suporta diversos tipos de interações com o sistema operacional, permitindo desenvolver uma série de tipos de
-aplicações, sejam voltadas para os ambientes de Console, Windows Form, Web ou mesmo Mobile.
+Cada implementação do .NET inclui os seguintes componentes:
 
 
+  <ul>
+   <li>Um ou mais runtimes. Exemplos: .NET Framework CLR, .NET 5 CLR.</li>
 
+   <li>Uma biblioteca de classes. Exemplos: .NET Framework biblioteca
+   de classes base, biblioteca de classes base do .NET 5.</li>
 
- 
+   <li>Opcionalmente, uma ou mais estruturas de aplicativo. Exemplos:
+   ASP.net, Windows Forms e Windows Presentation Foundation (WPF)
+   estão incluídos no .NET Framework e no .NET 5.</li>
+
+   <li>Opcionalmente, ferramentas de desenvolvimento. Algumas ferramentas
+   de desenvolvimento são compartilhadas entre várias implementações.</li>
+  </ul>
+  
+  
  <h2>
     Processo de Compilação
  </h2>
@@ -145,25 +147,23 @@ a ser lido pelo Common Language Runtime(CLR) em um processo chamado de Just-in-T
 O CLR nada mais é que a máquina virtual responsável por facilitar o processo de execução
 dos códigos geridos no .NET. Já o JIT é o responsável por tratar essa informação e convertê-la
 em machine code, este sendo por sua vez é interpretado pelo sistema operacional.
-
-
-Cada implementação do .NET inclui os seguintes componentes:
-
-
-  <ul>
-   <li>Um ou mais runtimes. Exemplos: .NET Framework CLR, .NET 5 CLR.</li>
-
-   <li>Uma biblioteca de classes. Exemplos: .NET Framework biblioteca
-   de classes base, biblioteca de classes base do .NET 5.</li>
-
-   <li>Opcionalmente, uma ou mais estruturas de aplicativo. Exemplos:
-   ASP.net, Windows Forms e Windows Presentation Foundation (WPF)
-   estão incluídos no .NET Framework e no .NET 5.</li>
-
-   <li>Opcionalmente, ferramentas de desenvolvimento. Algumas ferramentas
-   de desenvolvimento são compartilhadas entre várias implementações.</li>
-  </ul>
   
-Há quatro implementações do .NET às quais a Microsoft dá suporte:
+
+  
+<div align="center">
+   <h1>Ambiente de Desenvolvimento</h1>
+</div>
+
+ 
+O .NET é ambienteado e desenvolvido no Visual Studio, IDE desenvolvida pela Microsoft com o intuito de atender
+exclusivamente às especificações do ambiente .NET. Suportando linguagens como VB(Visual Basic), C#, C++, F# e
+Python, o Visual Studio é bastante versátil, sendo companhia constante do desenvolvedor .NET. Além disso, ele
+suporta diversos tipos de interações com o sistema operacional, permitindo desenvolver uma série de tipos de
+aplicações, sejam voltadas para os ambientes de Console, Windows Form, Web ou mesmo Mobile.
+
+ 
+
+
+
 
  
