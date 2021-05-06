@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=.NET&message=infrastructure&color=purple&style=for-the-badge&logo="/>
 
  
-O .NET é uma infraestrutura de desenvolvimento criada e mantida pela Microsft Sua criação visava reunir de forma
+O .NET é uma infraestrutura de desenvolvimento criada e mantida pela Microsft. Sua criação visava reunir de forma
 prática recursos que formariam um ambiente de desenvolvimento que abrangesse multiplas linguagens de
 programação, ampliando a forma com que se desevolvia aplicações no Windows.
  
