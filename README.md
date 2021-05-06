@@ -37,7 +37,7 @@ Uma aplicação .Net é desenvolvida para e roda em uma das seguintes implementa
 O .Ne 5 é uma implementação de plataforma crusada do .NET projetada para lidar com cargas de trabalho
 de servidores e nuvem em escala, além de aplicações desktop. Sendo multiplataforma, o .NET 5 é compatível
 com Windows, macOS, e Linux.  Ele implementa o .NET Standard, de modo que o código que se destina ao .NET
-Standard pode ser executado no .NET 5. Sendo alguns exemplos o Asp.NET core, Windows Forms e oWindows
+Standard pode ser executado no .NET 5. Sendo alguns exemplos o Asp.NET core, Windows Forms e o Windows
 Presentation Foundation (WPF) 
 
 
@@ -93,6 +93,32 @@ Cada implementação do .NET inclui os seguintes componentes:
    <li>Opcionalmente, ferramentas de desenvolvimento. Algumas ferramentas
    de desenvolvimento são compartilhadas entre várias implementações.</li>
   </ul>
+  
+
+ <h2>
+    Biblioteca de Classes do .NET
+ </h2>
+ 
+  
+ As Bibliotecas de classes são o conceito de biblioteca compartilhada do .NET. Eles permitem a composição 
+ de funcionalidades úteis em módulos que podem ser usados por aplicativos distintos. Eles também podem ser
+ usados como um meio de carregar funcionalidades que não são necessárias ou não são conhecidas na
+ inicialização do aplicativo. As bibliotecas de classes são descritas usando o formato de arquivo
+ .NET Assembly.
+  
+ <ul>
+   <li>
+     específicas da plataforma, como Base Class Library para o .Net Framework, Core Library para o .Net Core e
+     Mono Class Library para o Xamarin, (conforme tabela abaixo);
+   </li>
+   <li>
+     bibliotecas de classes portáteis – são APIs (Application Programming Interface) que podem ser usadas para
+     vários ambientes (Windows, Linus, iOS);
+   </li>
+   <li>
+     bibliotecas de classe .Net Standard – que é a união entre os dois primeiros tipos de bibliotecas.[
+   </li>
+ </ul>
   
   
  <h2>
