@@ -131,7 +131,7 @@ aplicações, sejam voltadas para os ambientes de Console, Windows Form, Web ou 
 Como foi anteriormente mencionado, o .NET fornece suporte para multiplas linguagens; uma
 vez que o código escrito em uma dessas linguagens é compilado, todo um processo de leitura
 e interpretação também é executado. Esse processo consiste na transposição da linguagem usada
-para uma linguagem intermediaria, com isso gera-se um arquivo com o código convertido. O arquivo
+para uma linguagem intermediaria, e com isso gera-se um arquivo com o código convertido. O arquivo
 executável(.exe) gerado leva a nomeclatura de assembly dentro do C#.
 
  
