@@ -17,7 +17,7 @@ desevolvia aplicações no Windows.
 Uma aplicação .Net é desenvolvida para e roda em uma das seguintes implementações do .Net:
 
 <ul>
-   <li>.Net5 (.Net Core, Aps.NET Core e versões anteriores)</li>
+   <li>.Net5 (.Net Core e versões anteriores)</li>
 
    <li>.Net Framework</li>
 
@@ -35,41 +35,6 @@ de servidores e nuvem em escala, além de aplicações desktop. Sendo multiplata
 com Windows, macOS, e Linux.  Ele implementa o .NET Standard, de modo que o código que se destina ao .NET
 Standard pode ser executado no .NET 5. Sendo alguns exemplos o Asp.NET core, Windows Forms e oWindows
 Presentation Foundation (WPF) 
-
-
-<h2>.NET Core</h2>
-
-
-Sendo introzido no mercado em 2016 com o propósito de ampliar as fronteiras do desenvolvimento usando o .NET,
-a Microsft desenvolveu o que seria definido como uma modernização do já difundido .NET. A atualização buscava
-quebrar a barreira de exclusividade que o Windows detinha sobre a ferramenta. Com essa mudança, tanto o Linux
-quanto o mcOS passaram a ser contemplados com a possibilidade de suporte ao .NET(Core) Uma grande mudança
-trazida pela atualização foi que o .NET passou a ser Open Source, permitindo a contribuição dos próprios
-usuários da plataforma.
-
-
-<h2>ASP.NET Core</h2>
-
-
-O Asp.Net Core é uma versão do Asp.Net que é ambientado na plataforma .NET Core. Quando foi lançado,
-Asp.Net tinha como maior função permitir a migração de conseitos do desenvolvimento DeskTop para
-a Web. As Ferramentas que levaram a sua criação, como Delphi e Visual Basic, as quais permitiam
-a criação mas simplória de interfaces gráficas no desenvolvimento DeskTop, podendo ser dito que com
-um simples "arrastar" de componentes o processo se dava como feito, tornavam possível uma maior dedicação
-a lógica por trás da interface. Com isso, foi desenvolvido o ASP.NET Web Forms.
-
-Mesmo parecendo adequando, a legibilidade da liguagem de marcação gerada pelo Web Forms era bastante 
-poluída e passou a cair em desuso. Mesmo com o fracasso, o Asp.Net não foi descartanto, sofrendo várias
-atualizações com o passar dos anos, sendo algumas delas o ASP.NET MVC: Aplicação do padrão MVC em
-aplicações do gênero; e o Web API: Criação de Api's usando a plataforma;
-
-Após várias atualizações, a Microsft partiu da idéia de atualizações pensando na comunidade para 
-a qual a ferramenta era essencial, tornando-a Open Source. Com isso, vendo que muitas modificações
-teriam que ser feitas, foi desenvolvido e lançado do zero em 2016 o ASP.NET Core.
-
-Sucessor do ASP.NET, o ASP.NET Core é um framework open-source, multiplataforma, criado pela
-Microsoft e sua comunidade. Leve, rápido e modular, funciondo em conjunto com o .NET Core. Essas
-mudanças trouxeram uma visão mais moderna e performática para aplicações Web no meio .Net.
 
 
 <h2>.NET Framework</h2>
@@ -94,6 +59,7 @@ também alimenta jogos construídos com o motor Unity. Ele oferece suporte a tod
 
 
 <h2>Universal Windows Plataform (UWP)</h2>
+
 
 UWP é uma implementação do .NET usada no desenvolvimento de aplicações e softwares Windows touch-enabled,
 e para a Internet das Coisas (IoT). Ele foi projetado para unificar os diferentes tipos de dispositivos
