@@ -147,11 +147,11 @@ Nesses ambientes os códigos são compatíveis graças ao compartilhamento de cl
  </h2>
  
 
-Como foi anteriormente mencionado, o .NET fornece suporte para multiplas linguagens; uma
-vez que o código escrito em uma dessas linguagens é compilado, todo um processo de leitura
-e interpretação também é executado. Esse processo consiste na transposição da linguagem usada
-para uma linguagem intermediaria, e com isso gera-se um arquivo com o código convertido. O arquivo
-executável(.exe) gerado leva a nomeclatura de assembly dentro do C#.
+Como a idéia que levou a sua criação visava, o .NET fornece suporte para multiplas linguagens de programação;
+uma vez que o código escrito em uma dessas linguagens é compilado, todo um processo de leitura e interpretação
+também é executado. Esse processo consiste na transposição da linguagem usada para uma linguagem intermediaria,
+e com isso gera-se um arquivo com o código convertido. O arquivo executável(.exe) gerado leva a nomeclatura de
+assembly dentro do C#.
 
  
 <div align="center">
@@ -159,14 +159,12 @@ executável(.exe) gerado leva a nomeclatura de assembly dentro do C#.
 </div>
  
 
-O executável, agora carregando o programa em uma Common Intermediate Language ou CIL, passa
-a ser lido pelo Common Language Runtime(CLR) em um processo chamado de Just-in-Time(JIT).
-O CLR nada mais é que a máquina virtual responsável por facilitar o processo de execução
-dos códigos geridos no .NET. Já o JIT é o responsável por tratar essa informação e convertê-la
-em machine code, este sendo por sua vez é interpretado pelo sistema operacional.
+O executável, agora carregando o programa em uma Common Intermediate Language ou CIL, passa a ser lido pelo Common
+Language Runtime(CLR) em um processo chamado de Just-in-Time(JIT). O CLR nada mais é que a máquina virtual responsável
+por facilitar o processo de execução dos códigos geridos no .NET. Já o JIT é o responsável por tratar essa informação
+e convertê-la em machine code, este sendo por sua vez é interpretado pelo sistema operacional.
   
 
-  
 <div align="center">
    <h1>Ambiente de Desenvolvimento</h1>
 </div>
@@ -176,7 +174,10 @@ O .NET é ambienteado e desenvolvido no Visual Studio, IDE desenvolvida pela Mic
 exclusivamente às especificações do ambiente .NET. Suportando linguagens como VB(Visual Basic), C#, C++, F# e
 Python, o Visual Studio é bastante versátil, sendo companhia constante do desenvolvedor .NET. Além disso, ele
 suporta diversos tipos de interações com o sistema operacional, permitindo desenvolver uma série de tipos de
-aplicações, sejam voltadas para os ambientes de Console, Windows Form, Web ou mesmo Mobile.
+aplicações, sejam voltadas para os ambientes de Console, Windows Form, Web ou mesmo Mobile. Além do Visual
+Studio padrão do Windows, há uma versão para mcOS chamada de Visual Studio for Mac e o popular Visual Studio
+Code, um editor de texto que dá suporte a inúmeras linguagens de programação, cli e entre outras ferramentas,
+incluíndo o cli do próprio .NET, além dos C#, F# e VB.
 
  
 
