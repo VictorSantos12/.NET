@@ -6,7 +6,7 @@
 
  
 O .NET é uma infraestrutura de desenvolvimento criada e mantida pela Microsft, cuja criação visa reunir de forma
-prática recursos que formariam um ambiente de desenvolvimento que abrangesse multiplas linguagens de
+prática recursos que formam um ambiente de desenvolvimento que abrangesse multiplas linguagens de
 programação, ampliando a forma com que se desevolvia aplicações no Windows.
  
 <h2>
