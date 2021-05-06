@@ -13,6 +13,11 @@ programação, ampliando a forma com que se desevolvia aplicações no Windows.
   Implementações do .NET
 </h2>
 
+As aplicações .NET estão presentes em grande parte dos ambentes de desenvolvimento da atualidade. Com os recursos
+disponibilizados pela Microsoft é possível criar aplicações para praticamente qualquer ambente hoje existente. Do
+Asp.NET para Web ao ML.NET para o desenvolvimento de I.A's, a infraestrutura .NET tem sido uma das mais importantes
+do mercado de T.I das últimas decadas.
+
 Uma aplicação .Net é desenvolvida para e roda em uma das seguintes implementações do .Net:
 
 <ul>
