@@ -136,7 +136,7 @@ executável(.exe) gerado leva a nomeclatura de assembly dentro do C#.
 
  
 <div align="center">
-  <img width="90%" src="https://user-images.githubusercontent.com/61476935/115812555-f4741600-a3c7-11eb-81f2-50fb958bd352.png">
+  <img width="90%" src="https://user-images.githubusercontent.com/61476935/117234352-34d98800-adfb-11eb-9d64-53d3400667b5.png">
 </div>
  
 
