@@ -116,10 +116,31 @@ Cada implementação do .NET inclui os seguintes componentes:
      vários ambientes (Windows, Linus, iOS);
    </li>
    <li>
-     bibliotecas de classe .Net Standard – que é a união entre os dois primeiros tipos de bibliotecas.[
+     bibliotecas de classe .Net Standard – que é a união entre os dois primeiros tipos de bibliotecas.
+   </li>
+ </ul>
+
+<h2?.Net Standard</h2>
+
+O .NET Standard agrupa uma série de classes padrão do .NET e as API's mais utilizadas. Ao desenvolver uma aplicação,
+não se desenvolve para uma plataforma específica, mas sim para uma versão do .Net Standard. A compatibilidade entre
+aplicação é determinada pelo contrato da mesma versão do .Net Standard. Atualmente o .Net Standard agrupa três
+plataformas .NET:
+
+ <ul>
+   <li>
+     .NET Framework
+   </li>
+   <li>
+     .NET Core
+   </li>
+   <li>
+     Xamarin
    </li>
  </ul>
   
+Nesses ambientes os códigos são compatíveis graças ao compartilhamento de classes e métodos proporcionado pelo
+.NET Standard
   
  <h2>
     Processo de Compilação
